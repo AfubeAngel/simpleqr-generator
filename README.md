@@ -1,5 +1,5 @@
 This created an npm package; generating a package.json in the folder
-angelafube@Zest-031-Macbook QR Code Project % npm init
+angelafube@Macbook QR Code Project % npm init
 This utility will walk you through creating a package.json file.
 It only covers the most common items, and tries to guess sensible defaults.
 
